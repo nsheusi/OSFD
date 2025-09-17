@@ -1,0 +1,333 @@
+# Open Source Finance University (OSFU)
+
+## Path to a Free Self-Taught Education in Finance with Series 7 Focus
+
+### Summary
+
+The OSFU curriculum is a **complete education in finance** using online materials, specifically designed for those seeking to pass the Series 7 exam and become professional traders. It's for those who want a proper, well-rounded grounding in financial concepts fundamental to securities trading, investment analysis, and financial markets, with the discipline and good habits to obtain this education largely on their own.
+
+The curriculum is designed according to the requirements for finance professionals seeking FINRA Series 7 licensing, following a structured progression from foundational concepts to advanced trading and analysis skills.
+
+**Duration**: 18-24 months if you plan carefully and devote roughly 15-20 hours/week to your studies.
+
+**Cost**: All course materials are available for free. Some platforms may charge for certificates or assignments.
+
+## Organization
+
+- **Prerequisites**: Essential mathematical and analytical foundations
+- **Core Finance**: Fundamental concepts all finance professionals must master
+- **Series 7 Preparation**: Focused study for the FINRA Series 7 exam
+- **Advanced Finance**: Specialized topics for professional trading
+- **Capstone Project**: Portfolio management simulation or trading strategy development
+
+---
+
+## Prerequisites
+
+Before starting Core Finance, you should have:
+- High school algebra, geometry, and pre-calculus
+- Basic computer skills
+- Strong reading comprehension
+- Analytical thinking ability
+
+### Mathematics Foundation
+
+**Topics covered**: 
+- Algebra and functions
+- Logarithms and exponentials
+- Basic calculus concepts
+- Statistical fundamentals
+- Probability theory
+
+| Course | Duration | Effort | Prerequisites | Notes |
+|--------|----------|--------|---------------|--------|
+| [Khan Academy Algebra](https://www.khanacademy.org/math/algebra) | 8 weeks | 6-8 hours/week | High school math | Foundation for financial calculations |
+| [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) | 8 weeks | 5-7 hours/week | Algebra | Essential for risk analysis |
+| [Introduction to Financial Mathematics](https://open.umn.edu/opentextbooks/textbooks/introduction-to-financial-mathematics-concepts-and-computational-methods) | 10 weeks | 6-8 hours/week | Basic calculus | Time value of money, derivatives |
+
+---
+
+## Core Finance
+
+All coursework under Core Finance is **required**.
+
+### Financial Foundations
+
+**Topics covered**: 
+- Time value of money
+- Present and future value calculations
+- Risk and return concepts
+- Financial statement basics
+- Business ethics in finance
+
+| Course | Duration | Effort | Prerequisites | Discussion |
+|--------|----------|--------|---------------|------------|
+| [Principles of Finance (MIT OpenCourseWare)](https://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/) | 12 weeks | 8-10 hours/week | Mathematics Foundation | Core concepts |
+| [Financial Accounting (OpenStax)](https://openstax.org/books/principles-financial-accounting/pages/1-why-it-is-important-to-learn-about-accounting) | 10 weeks | 6-8 hours/week | Basic math | Reading financial statements |
+| [Business Ethics in Finance](https://www.edx.org/learn/business-ethics/university-of-pennsylvania-business-ethics-and-social-impact) | 4 weeks | 3-4 hours/week | None | Professional conduct |
+
+### Economics for Finance
+
+**Topics covered**: 
+- Microeconomic principles
+- Macroeconomic indicators
+- Market structures
+- Government policy impacts
+- International economics
+
+| Course | Duration | Effort | Prerequisites | Discussion |
+|--------|----------|--------|---------------|------------|
+| [Principles of Economics (MIT OpenCourseWare)](https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/) | 14 weeks | 8-10 hours/week | None | Micro and macro |
+| [The Economy 2.0 (CORE)](https://www.core-econ.org/the-economy/book/text/0-3-contents.html) | 16 weeks | 6-8 hours/week | None | Modern economic perspective |
+
+### Corporate Finance
+
+**Topics covered**: 
+- Capital budgeting
+- Cost of capital
+- Capital structure decisions
+- Working capital management
+- Mergers and acquisitions
+- Corporate governance
+
+| Course | Duration | Effort | Prerequisites | Discussion |
+|--------|----------|--------|---------------|------------|
+| [Corporate Finance (MIT OpenCourseWare)](https://ocw.mit.edu/courses/sloan-school-of-management/15-402-finance-theory-ii-spring-2003/) | 12 weeks | 8-10 hours/week | Financial Foundations | Advanced corporate finance |
+| [Fundamentals of Corporate Finance Textbook Study](https://openstax.org/books/introduction-business/pages/16-6-securities-markets) | 8 weeks | 6-8 hours/week | Financial Foundations | Self-study supplement |
+
+### Investment Analysis
+
+**Topics covered**: 
+- Portfolio theory
+- Asset pricing models
+- Security valuation
+- Risk management
+- Performance measurement
+- Alternative investments
+
+| Course | Duration | Effort | Prerequisites | Discussion |
+|--------|----------|--------|---------------|------------|
+| [Investments and Portfolio Management (MIT OpenCourseWare)](https://ocw.mit.edu/courses/sloan-school-of-management/15-433-investments-spring-2003/) | 14 weeks | 10-12 hours/week | Corporate Finance | Core investment concepts |
+| [Fundamentals of Investing (Coursera)](https://www.coursera.org/learn/investing-fundamentals) | 6 weeks | 4-6 hours/week | Financial Foundations | Practical investment basics |
+
+### Financial Markets and Institutions
+
+**Topics covered**: 
+- Money and capital markets
+- Financial institutions
+- Market microstructure
+- Regulatory environment
+- International markets
+- Financial system stability
+
+| Course | Duration | Effort | Prerequisites | Discussion |
+|--------|----------|--------|---------------|------------|
+| [Financial Markets (Yale - Coursera)](https://www.coursera.org/learn/financial-markets-global) | 7 weeks | 6-8 hours/week | Investment Analysis | Shiller's famous course |
+| [Financial System Architecture](https://ocw.mit.edu/courses/sloan-school-of-management/15-488-introduction-to-financial-technology-fintech-spring-2021/) | 8 weeks | 5-7 hours/week | Investment Analysis | Modern financial systems |
+
+---
+
+## Series 7 Preparation
+
+**Prerequisites**: Complete all Core Finance courses
+
+**Topics covered**: 
+- Securities products and their risks
+- Trading markets and customer accounts
+- Investment company products
+- Variable contracts
+- Municipal securities
+- Margin accounts
+- Options
+- Customer suitability and investment objectives
+
+### Intensive Series 7 Study Program
+
+| Resource | Duration | Effort | Cost | Notes |
+|----------|----------|--------|------|-------|
+| [FINRA Series 7 Content Outline](https://www.finra.org/sites/default/files/Series_7_Content_Outline.pdf) | 2 weeks | 10 hours/week | Free | Official exam outline |
+| [Achievable Series 7 Prep](https://achievable.me/exams/finra-series-7/prepare/) | 12 weeks | 15-20 hours/week | $199 | Adaptive learning |
+| [Series 7 Practice Questions](https://www.kaplanfinancial.com/securities/series-7) | 4 weeks | 10-15 hours/week | Varies | Practice exams |
+| Securities Industry Essentials (SIE) Prep | 6 weeks | 8-10 hours/week | $80 exam fee | Prerequisite for Series 7 |
+
+**Study Plan**:
+1. Complete SIE exam first (not firm-sponsored requirement)
+2. Comprehensive Series 7 content review (8 weeks)
+3. Intensive practice testing (4 weeks)
+4. Final review and exam scheduling
+
+**Exam Requirements**:
+- Must be sponsored by a FINRA-member firm to take Series 7
+- 125 multiple-choice questions
+- 3 hours 45 minutes
+- 72% passing score
+- $300 exam fee (paid by sponsor)
+
+---
+
+## Advanced Finance
+
+After completing Core Finance and Series 7 prep, choose specializations based on career goals.
+
+### Quantitative Finance
+
+**Topics covered**: 
+- Stochastic calculus
+- Derivatives pricing
+- Risk modeling
+- Algorithmic trading
+- Portfolio optimization
+
+| Course | Duration | Effort | Prerequisites | Discussion |
+|--------|----------|--------|---------------|------------|
+| [Stochastic Calculus for Finance (CMU)](https://www.math.cmu.edu/~shreve/StochasticCalculus/) | 16 weeks | 12-15 hours/week | Advanced mathematics | Shreve's classic text |
+| [Computational Finance (MIT)](https://ocw.mit.edu/courses/sloan-school-of-management/15-450-analytics-of-finance-fall-2010/) | 12 weeks | 8-10 hours/week | Programming skills | Quantitative methods |
+
+### Trading and Markets
+
+**Topics covered**: 
+- Market microstructure
+- Trading strategies
+- Execution algorithms
+- High-frequency trading
+- Market making
+- Risk management systems
+
+| Course | Duration | Effort | Prerequisites | Discussion |
+|--------|----------|--------|---------------|------------|
+| [Trading Strategies (MIT)](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) | 10 weeks | 8-10 hours/week | Investment Analysis | Modern trading |
+| Market Microstructure Self-Study | 8 weeks | 6-8 hours/week | Financial Markets | Academic papers |
+
+### Fixed Income and Derivatives
+
+**Topics covered**: 
+- Bond mathematics
+- Term structure modeling
+- Credit risk
+- Options strategies
+- Futures and swaps
+- Structured products
+
+| Course | Duration | Effort | Prerequisites | Discussion |
+|--------|----------|--------|---------------|------------|
+| [Fixed Income Securities (MIT)](https://ocw.mit.edu/courses/sloan-school-of-management/15-415-derivatives-markets-spring-2006/) | 12 weeks | 10-12 hours/week | Investment Analysis | Advanced fixed income |
+| Options Strategies Self-Study | 6 weeks | 8-10 hours/week | Series 7 Prep | Practical options trading |
+
+### Risk Management
+
+**Topics covered**: 
+- Market risk
+- Credit risk
+- Operational risk
+- Regulatory requirements
+- Stress testing
+- Portfolio risk metrics
+
+| Course | Duration | Effort | Prerequisites | Discussion |
+|--------|----------|--------|---------------|------------|
+| [Risk Management (MIT)](https://ocw.mit.edu/courses/sloan-school-of-management/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/) | 10 weeks | 8-10 hours/week | Investment Analysis | Comprehensive risk |
+| Regulatory Risk Self-Study | 4 weeks | 6-8 hours/week | Series 7 Prep | Compliance focus |
+
+---
+
+## Capstone Project
+
+Choose one of the following to demonstrate mastery:
+
+### Portfolio Management Simulation
+- 6-month paper trading portfolio
+- Develop investment thesis and strategy
+- Monthly performance reports and analysis
+- Final presentation of results and lessons learned
+
+### Trading Strategy Development
+- Research and backtest a trading strategy
+- Implement risk management protocols  
+- Document methodology and results
+- Present strategy to simulated investment committee
+
+### Financial Analysis Case Study
+- Complete analysis of a public company
+- Include valuation models and investment recommendation
+- Address potential risks and scenarios
+- Professional-quality research report
+
+---
+
+## Additional Licensing Paths
+
+After Series 7, consider additional licenses based on career goals:
+
+- **Series 24** (General Securities Principal): Supervisory roles
+- **Series 63** (Uniform Securities Agent State Law): State registration
+- **Series 65/66** (Investment Advisor): Fee-based advice
+- **CFA Program**: Professional designation for investment analysis
+
+---
+
+## Professional Development Resources
+
+### Books (Essential Reading)
+- "Security Analysis" by Benjamin Graham and David Dodd
+- "The Intelligent Investor" by Benjamin Graham
+- "A Random Walk Down Wall Street" by Burton Malkiel
+- "Options, Futures, and Other Derivatives" by John Hull
+- "Principles of Corporate Finance" by Brealey, Myers, and Allen
+
+### Ongoing Education
+- CFA Institute webcasts and materials
+- FINRA continuing education requirements
+- Industry publications (WSJ, Financial Times, Bloomberg)
+- Professional conferences and networking events
+
+### Technology Skills
+- Excel financial modeling
+- Python for finance
+- R for statistical analysis
+- Bloomberg Terminal training
+- Financial databases (CRSP, Compustat)
+
+---
+
+## Career Pathways
+
+This curriculum prepares you for roles such as:
+
+- **Registered Representative** (Series 7 required)
+- **Investment Advisor Representative** (Series 65/66)
+- **Portfolio Manager** 
+- **Securities Analyst**
+- **Institutional Sales/Trading**
+- **Risk Manager**
+- **Compliance Officer**
+- **Investment Banking Analyst**
+
+---
+
+## How to Show Your Progress
+
+1. Fork this curriculum to your GitHub
+2. Check off completed courses ✅
+3. Upload capstone project materials
+4. Document additional learning and certifications
+5. Build a portfolio of financial analysis work
+
+---
+
+## Community and Support
+
+- Join finance-focused Discord servers and forums
+- LinkedIn networking with finance professionals
+- Local CFA Society meetings
+- University finance club events
+- Online study groups for Series 7 preparation
+
+---
+
+## Final Notes
+
+This curriculum provides a comprehensive foundation for a career in finance, with particular focus on the knowledge and skills needed for the Series 7 exam and professional trading roles. The path is demanding but rewarding, requiring dedication, continuous learning, and practical application of concepts.
+
+Remember that becoming a successful finance professional requires not just technical knowledge, but also strong ethical standards, excellent communication skills, and the ability to work well under pressure. The Series 7 is just the beginning of a lifelong learning journey in the dynamic world of finance.
+
+**Good luck on your path to becoming a finance professional!**
